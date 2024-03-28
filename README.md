@@ -1,3 +1,4 @@
+![Memory Game Screenshot](https://raw.githubusercontent.com/chameleon505/memory-game/main/public/mg_screen.png?token=GHSAT0AAAAAACQIKBB6HS5QSXYLXDGOLIFKZQF7GGA)
 
 
 ## Overview
