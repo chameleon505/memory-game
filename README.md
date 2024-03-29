@@ -6,7 +6,7 @@ Memory Game is a web-based game where players test their memory by matching pair
 
 
 ## Demo
-[Click here to play the demo](https://memory-game-react-0.netlify.app/)
+[Click here to play the game](https://memory-game-react-0.netlify.app/)
 
 ## Features
 - Dynamic card shuffling to ensure a unique game experience every time.
